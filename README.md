@@ -2,7 +2,7 @@
 
 ## Overview 
 
-The project is to ascertain grouping for different cryptocurrencies which are present on trading market in the given data. The data needs to be cleaned and processed to fit machine learning models. Using python, it is required to pre-process the data to make it appropriate for the unsupervised machine learning model. To keep the model cost effective, reducing dimensions is also need to be employed and finally perform clustering of the data. The clustered data need to be visualized in table, 2D and 3D graph as required. 
+The project is to ascertain grouping for different cryptocurrencies which are present in trading market. Available data needs to be cleaned and processed to fit machine learning model using python. To keep the model cost effective, reducing dimensions is required to be employed and perform clustering of the data using K-Means (un-supervised machine learning) model. Finally, clustered data need to be visualized in table, 2D and 3D graph as required. 
 
 ## Purpose
 
